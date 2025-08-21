@@ -1,6 +1,6 @@
-# PinSight
+# PinSighter
 
-## SerenaNam PinSight Privacy Policy
+## SerenaNam PinSighter Privacy Policy
 ### Privacy Policy
 
 Last updated: August 20, 2025
